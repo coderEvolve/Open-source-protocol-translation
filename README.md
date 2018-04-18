@@ -1,2 +1,2 @@
-# Open-source-protocol-translation
-开源协议翻译
+﻿# Open-source-protocol-translation
+SimPL-2.0协议翻译
